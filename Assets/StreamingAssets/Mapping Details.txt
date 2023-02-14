@@ -1,0 +1,23 @@
+LeftAnalogX, "Horizontal" , Joystick Axis, X axis, from all Joysticks
+LeftAnalogY (Inverted), "Vertical", Joystick Axis, Y axis, from all Joysticks
+A, "joystick button 0", (aka 'Fire1')
+B, "joystick button 1", (aka 'Fire2')
+X, "joystick button 2", (aka 'Fire3')
+Y, "joystick button 3", (aka 'Jump')
+L1, "joystick button 4"
+R1, "joystick button 5"
+L2, "joystick button 6"
+R2, "joystick button 7"
+LeftAnalogButton, "joystick button 8"
+RightAnalogButton, "joystick button 9"
+Start, "joystick button 10"
+Select, "joystick button 11"
+RightAnalogX, Joystick Axis, 3rd axis(Joysticks and Scrollwheel), from all Joysticks
+RightAnalogY (Inverted), Joystick Axis, 4th axis, from all Joysticks
+DpadX, Joystick Axis, 5th axis, from all Joysticks
+DpadY (Inverted), Joystick Axis, 6th axis, from all Joysticks
+
+
+
+
+
